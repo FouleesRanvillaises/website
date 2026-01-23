@@ -1,0 +1,63 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import '../styles/global.css';
+
+type Props = MarkdownLayoutProps<{
+  title: string;
+}>;
+
+const { frontmatter } = Astro.props;
+const { title } = frontmatter
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<header>
+			<nav>
+				<a href="/">Accueil</a>
+			</nav>
+			<nav>
+				<a href="/inscriptions">Inscriptions</a>
+			</nav>
+			<nav>
+				<a href="/galerie">Galerie</a>
+			</nav>
+			<nav>
+				<a href="/parcours">Parcours</a>
+			</nav>
+			<nav>
+				<a href="/reglement">Règlement</a>
+			</nav>
+			<nav>
+				<a href="/sponsors">Sponsors</a>
+			</nav>
+		</header>
+		<main>
+            <slot />
+        </main>
+		<footer>
+			Contact : <a href="mailto:fouleesranvillaises@gmail.com">fouleesranvillaises@gmail.com</a>
+		</footer>
+	</body>
+</html>
+
+<style>
+	header {
+		flex: 1;
+		display: flex;
+		gap: 2rem;
+		justify-content: center;
+		padding-top: 2rem;
+	}
+	footer {
+		text-align: center;
+		padding-bottom: 2rem;
+	}
+</style>
