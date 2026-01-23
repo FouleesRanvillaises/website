@@ -6,6 +6,6 @@ title: "Les foulées Ranvillaises"
 
 ## Inscriptions
 
-Ouverture des inscriptions à partir de 1 février 2026 sur https://chronometrage.com/
+Ouverture des inscriptions à partir de 1 février 2026 sur <a href="https://chronometrage.com/">https://chronometrage.com/</a>
 
 

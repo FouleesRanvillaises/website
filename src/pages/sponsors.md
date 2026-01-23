@@ -48,4 +48,4 @@ La course est aussi l’occasion de créer du lien entre acteurs du territoire.
 Ensemble, nous faisons vivre Ranville à travers un événement porteur de sens et accessible à tous.
 
 
-![logo](/assets/Sponsors.jpg)
+![logo](/website/assets/Sponsors.jpg)

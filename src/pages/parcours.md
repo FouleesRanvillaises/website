@@ -49,22 +49,22 @@ L’esprit d’équipe et la bienveillance priment : ici, chacun est encouragé 
 
 ### 400m
 
-![logo](/assets/400m.jpg)
+![logo](/website/assets/400m.jpg)
 
 
 ### 500m
 
-![logo](/assets/500m.jpg)
+![logo](/website/assets/500m.jpg)
 
 
 ### 5km
 
-![logo](/assets/5km.jpg)
+![logo](/website/assets/5km.jpg)
 
 
 ### 7km
 
-![logo](/assets/7km.jpg)
+![logo](/website/assets/7km.jpg)
 
 ### 14 km
 
