@@ -28,8 +28,6 @@ Course de 14 km à partir de 16 ans.
 
 Course de 14 km relais (par équipe de 2) à partir de 16 ans.
 
-Marche Nordique 5 km à partir de 16 ans. 
-**Les bâtons sont obligatoires.**
 
 
 ### Art 3 :
@@ -46,13 +44,13 @@ Les hommes et les femmes font l’objet d’un classement séparé pour les cour
 ### Art 6 :
 Le tarif de l’engagement est fixé à :
 
-- 14 € par participant pour le 14 km.
+- 15 € par participant pour le 14 km.
 
-- 14 € pour l’équipe en relais.
+- 18 € pour l’équipe en relais.
 
-- 5 € par participant pour le 5 km et marche nordique.
+- 6 € par participant pour le 5 km.
 
-- 7 € par participant pour les courses 7 km.
+- 8 € par participant pour les courses 7 km.
 
 - 2 € par participant pour les courses jeunes sans classement.
 
@@ -96,13 +94,11 @@ Récompenses:
   - les 3 premières du classement Femmes.
   - les 3 premiers du classement Hommes.
 
-- Course 5 km, récompense pour :
+- Course 5 km, récompenses pour :
   - les 3 premières du classement Femmes.
   - les 3 premiers du classement Hommes.
-
-- Marche nordique, récompenses pour :
-  - les 3 premières du classement Femmes
-  - les 3 premiers du classement Hommes.
+  - les 3 premières du classement Minimes et Cadets.
+  - les 3 premiers du classement Minimes et Cadets.
 
 - Courses enfants, pas de classement, chaque participant recevra un lot :
   - Lot à chaque participant à la remise du dossard.
@@ -150,7 +146,7 @@ L’organisation décline toute responsabilité en cas d’accident face à ce t
 ### Art 15 :
 Le parcours est composé de portions de routes, chemins herbeux avec racines, pistes cyclables. Des panneaux directionnels orienteront les participants sur le tracé.
 
-Il sera demandé aux concurrents de bien rester sur **la portion droite** du parcours afin de laisser la partie gauche aux coureurs plus rapides, notamment les coureurs susceptibles de doubler les marcheurs.
+Il sera demandé aux concurrents de bien rester sur **la partie droite** du parcours afin de laisser la partie gauche aux coureurs plus rapides, notamment les coureurs susceptibles de doubler les marcheurs.
 
 ### Art 16 :
 Les organisateurs se réservent le droit de ne pas inscrire une personne pouvant troubler la manifestation.
