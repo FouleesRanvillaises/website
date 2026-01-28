@@ -5,6 +5,8 @@ title: "Les foulées Ranvillaises"
 
 ## Sponsors
 
+![logo](/website/assets/Sponsors.jpg)
+
 **Merci à nos sponsors et partenaires pour leur engagement.**
 
 Les Foulées Ranvillaises ne pourraient pas exister sans le soutien fidèle de nos partenaires. Leur implication financière, logistique ou matérielle permet l’organisation d’un événement accessible, sécurisé et festif.
