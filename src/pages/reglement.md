@@ -48,11 +48,11 @@ Le tarif de l’engagement est fixé à :
 
 - 15 € par participant pour le 14 km.
 
-- 18 € pour l’équipe en relais.
+- 18 € pour l’équipe en relais mixte.
 
 - 6 € par participant pour le 5 km.
 
-- 8 € par participant pour les courses 7 km.
+- 8 € par participant pour le 7 km.
 
 - 2 € par participant pour les courses jeunes sans classement.
 
