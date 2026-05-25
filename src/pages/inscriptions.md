@@ -10,5 +10,5 @@ title: "Les foulées Ranvillaises"
 ![logo](/assets/Inscrit.jpg)
 
 
-Ouverture des inscriptions à partir de **1 février 2026** sur: <a href="https://chronometrage.com/events/lesfouleesranvillaises">https://chronometrage.com/events/lesfouleesranvillaises</a>
+Ouverture des inscriptions à partir de **..........2027** sur: <a href="https://chronometrage.com/events/lesfouleesranvillaises">https://chronometrage.com/events/lesfouleesranvillaises</a>
 
