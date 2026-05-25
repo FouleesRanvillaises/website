@@ -13,7 +13,7 @@ title: "Les foulées Ranvillaises"
 
 <div style="border:4px solid red; padding:20px; text-align:center;">
   <span style="color:red; font-size:48px; font-weight:bold;">
-    JEUDI 14 MAI 2026
+    JEUDI 6 MAI 2027
   </span>
 </div>
 
