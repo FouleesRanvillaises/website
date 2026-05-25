@@ -18,7 +18,7 @@ title: "Les foulées Ranvillaises"
 </div>
 
 
-![logo](/assets/Affiche2026.jpg)
+![logo](/assets/Affiche2027.jpg)
 
 
 ## Présentation
