@@ -6,7 +6,7 @@ title: "Les foulées Ranvillaises"
 
 
 
-![logo](https://lesfouleesranvillaises.fr/wp-content/uploads/2025/06/cropped-logo-foulees.jpg)
+![logo](/assets/cropped-logo-foulees.jpg)
 
 
 
@@ -52,4 +52,3 @@ Votre participation soutiendra l’association œuvrant pour France Sclérose en
 
 
 https://www.france-sclerose-en-plaques.org/
-
