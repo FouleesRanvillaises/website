@@ -25,14 +25,10 @@ title: "Les foulées Ranvillaises"
 ### Une course pour tous
 
 
-Chaque année, à Ranville, les Foulées Ranvillaises rassemblent coureurs et familles, enfants et bénévoles dans un esprit de partage et de solidarité.
-Bien plus qu’un simple événement sportif, cette course populaire célèbre la convivialité, l’engagement local et l’envie de bouger ensemble pour une cause.
+Chaque année, le JEUDI DE L'ASCENSION, à Ranville, les Foulées Ranvillaises rassemblent coureurs et familles, enfants et bénévoles dans un esprit de partage et de solidarité.
 
 
-Que vous soyez coureur confirmé, marcheur du dimanche ou spectateur enthousiaste, chacun trouve sa place dans cette journée sportive. Le départ en musique, les encouragements des bénévoles, les animations pour enfants et l’énergie collective font de cet événement un moment fort de la vie ranvillaise.
-
-
-Une ambiance festive et accessible à tous.
+Que vous soyez coureur confirmé, marcheur du dimanche ou spectateur enthousiaste, chacun trouve sa place dans cette journée sportive. Le départ en musique et les encouragements des bénévoles font de cet événement un moment fort de la vie ranvillaise.
 
 
 Les Foulées Ranvillaises sont intergénérationnelles : enfants, adolescents, adultes et seniors partagent la même ligne d’arrivée dans une ambiance bienveillante.
