@@ -19,12 +19,12 @@ Nos circuits sont conçus pour garantir plaisir, sécurité et accessibilité. Q
 
 ### 400m
 
-![logo](/website/assets/400m.jpg)
+![logo](/assets/400m.jpg)
 
 
 ### 500m
 
-![logo](/website/assets/500m.jpg)
+![logo](/assets/500m.jpg)
 
 
 - **Courses Adultes :**  idéales pour les adultes qui souhaitent se challenger ou préparer une course au cours de l’été.
@@ -33,12 +33,12 @@ Nos circuits sont conçus pour garantir plaisir, sécurité et accessibilité. Q
 
 ### 5km
 
-![logo](/website/assets/5km.jpg)
+![logo](/assets/5km.jpg)
 
 
 ### 7km
 
-![logo](/website/assets/7km.jpg)
+![logo](/assets/7km.jpg)
 
 ### 14 km
 
@@ -68,7 +68,6 @@ Tous les parcours sont sans difficulté majeure, avec départs échelonnés pour
 
 Les parcours sont balisés, surveillés par des bénévoles, et chaque coureur est couvert par une assurance.
 L’esprit d’équipe et la bienveillance priment : ici, chacun est encouragé à son rythme.
-
 
 
 

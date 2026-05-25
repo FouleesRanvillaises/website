@@ -5,7 +5,7 @@ title: "Les foulées Ranvillaises"
 
 ## Sponsors
 
-![logo](/website/assets/Sponsors.jpg)
+![logo](/assets/Sponsors.jpg)
 
 **Merci à nos sponsors et partenaires pour leur engagement.**
 
@@ -50,4 +50,4 @@ La course est aussi l’occasion de créer du lien entre acteurs du territoire.
 Ensemble, nous faisons vivre Ranville à travers un événement porteur de sens et accessible à tous.
 
 
-![logo](/website/assets/Sponsors.jpg)
+![logo](/assets/Sponsors.jpg)

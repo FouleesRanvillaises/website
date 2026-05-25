@@ -5,7 +5,7 @@ title: "Les foulées Ranvillaises"
 
 ## Règlement
 
-![logo](/website/assets/reglement.jpg)
+![logo](/assets/reglement.jpg)
 
 ### Art 1 :
  Les courses sont organisées par l'Association Les Foulées Ranvillaises.
@@ -161,5 +161,4 @@ En cas de force majeure, de catastrophes naturelles, de conditions climatiques, 
 
 ### Art 19 :
 L’inscription à l’une des épreuves vaut l’acceptation sans réserve du règlement ci-dessus dans sa totalité.
-
 
