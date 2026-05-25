@@ -53,10 +53,9 @@ Tous les parcours sont sans difficulté majeure, avec départs échelonnés pour
 
 - **Accueil des participants:** Salle Henri Robin, proche de la Mairie.
 
-- **Départ des courses:** courses adultes avec la marche nordique suivies des courses enfants
-(horaires susceptibles de modifications).
+- **Départ des courses:** courses adultes suivies des courses enfants.
 
-- **Remise des dossards:** sur place.
+- **Remise des dossards:** sur place, le mercredi soir et le jeudi matin.
 
 - **Ravitaillement:** à l’arrivée exclusivement.
 
