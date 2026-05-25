@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://fouleesranvillaises.github.io/',
-    base: '/website'
+    site: 'https://www.lesfouleesranvillaises.fr/',
+    base: '/'
 });
