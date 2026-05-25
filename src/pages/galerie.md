@@ -12,10 +12,10 @@ title: "Les foulées Ranvillaises"
 ![logo](/assets/Départ.jpg)
 
 
-[photos 7 km en 2025](https://drive.google.com/drive/folders/1IUx720va0tvFcApqoAaR0kxeEnNX_jBk?usp=sharing) 
+[Photos Daniel Adultes](https://drive.google.com/drive/folders/12ioZWcuNJ5kg2cYlF0ylb7cBUUqltT3m?usp=drive_link) 
 
 
-[photos 14 km en 2025](https://drive.google.com/drive/folders/1xx29WnLlncMLsKEs75CMDEHSydcU8QeN?usp=sharing)  
+[Photos Daniel Enfants](https://drive.google.com/drive/folders/11tiFYGScXXBQevz_o49GNuUAUXCBN25d?usp=drive_link)  
 
 
 
