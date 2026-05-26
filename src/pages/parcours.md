@@ -53,7 +53,7 @@ Tous les parcours sont sans difficulté majeure, avec départs échelonnés pour
 
 - **Accueil des participants:** Salle Henri Robin, proche de la Mairie.
 
-- **Départ des courses:** courses adultes suivies des courses enfants.
+- **Départ des courses:** courses adultes, remise des récompenses puis courses enfants.
 
 - **Remise des dossards:** sur place, le mercredi soir et le jeudi matin.
 
