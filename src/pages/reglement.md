@@ -28,7 +28,7 @@ Course de 7 km à partir de 16 ans.
 
 Course de 14 km à partir de 16 ans.
 
-Course de 14 km relais (par équipe de 2) à partir de 16 ans.
+Course de 14 km relais mixte (par équipe de 2) à partir de 16 ans.
 
 
 
@@ -38,7 +38,7 @@ Les inscriptions se font à l’avance exclusivement par internet sur le site ch
 ### Art 4 :
 Les inscriptions en ligne sont ouvertes jusqu’au 
 
-**dimanche 10 mai 2026 minuit**
+**dimanche 2 mai 2027 minuit**
 
 ### Art 5 :
 Les hommes et les femmes font l’objet d’un classement séparé pour les courses 14 km, 7 km, 5 km, relais et marche nordique. Il n’y aura pas de classement pour les courses jeunes.
@@ -89,7 +89,7 @@ Récompenses:
   - les 3 premières du classement Femmes.
   - les 3 premiers du classement Hommes.
 
-- Course 14 km en relais, récompenses pour :
+- Course 14 km en relais mixte, récompenses pour :
   - les 3 premières équipes.
 
 - Course 7 km, récompenses pour :
@@ -99,8 +99,6 @@ Récompenses:
 - Course 5 km, récompenses pour :
   - les 3 premières du classement Femmes.
   - les 3 premiers du classement Hommes.
-  - les 3 premières du classement Minimes et Cadets.
-  - les 3 premiers du classement Minimes et Cadets.
 
 - Courses enfants, pas de classement, chaque participant recevra un lot :
   - Lot à chaque participant à la remise du dossard.
@@ -133,9 +131,9 @@ Conseils pour le ravitaillement individuel pendant la course:
 ### Art 14 :
 Le retrait des dossards se fera à la salle Henri Robin située Place Major Jack Watson à Ranville:
 
-- le mercredi 13 mai à partir de 17h.
+- le mercredi 5 mai à partir de 17h30.
 
-- le jeudi 14 mai dès 7h30.
+- le jeudi 6 mai dès 7h30.
 
 Le dossard devra être entièrement lisible lors de la course, fixé à l’aide d'épingles à nourrice ou un porte dossard; matériel non fourni par l’organisation.
 
