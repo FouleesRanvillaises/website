@@ -28,7 +28,7 @@ Course de 7 km à partir de 16 ans.
 
 Course de 14 km à partir de 16 ans.
 
-Course de 14 km relais mixte (par équipe de 2) à partir de 16 ans.
+Course de 14 km en relais mixte (par équipe de 2) à partir de 16 ans.
 
 
 
@@ -100,8 +100,8 @@ Récompenses:
   - les 3 premières du classement Femmes.
   - les 3 premiers du classement Hommes.
 
-- Courses enfants, pas de classement, chaque participant recevra un lot :
-  - Lot à chaque participant à la remise du dossard.
+- Courses enfants, pas de classement, chaque participant recevra un lot à la fin de la course
+  et un lot à chaque participant à la remise du dossard.
 
 ### Art 12 :
 En vous inscrivant aux Foulées Ranvillaises, vous vous engagez :
