@@ -5,7 +5,7 @@ title: "Les foulées Ranvillaises"
 
 ## Octobre Rose
 
-![logo](/assets/Octobre rose Ranville.jpg)
+![logo](/assets/OctobreroseRanville.jpg)
 
 Les Foulées Ranvillaises et la Mairie de Ranville associées aux associations ranvillaises participent à cet événement le Samedi 10 octobre à partir de 10h.
 
