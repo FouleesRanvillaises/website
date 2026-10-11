@@ -40,6 +40,7 @@ Les Foulées Ranvillaises sont intergénérationnelles : enfants, adolescents, a
 
 ![logo](/assets/FSP.jpg)
 
+![logo](/assets/Runsep1.jpg)
 
 Participer aux Foulées Ranvillaises, c’est aussi soutenir une cause. Chaque année, une association locale engagée est mise à l’honneur. Une partie des bénéfices lui est reversée, transformant chaque foulée en geste solidaire.
 
